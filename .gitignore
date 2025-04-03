@@ -1,0 +1,61 @@
+# Node modules
+node_modules/
+
+# Logs
+*.log
+yarn-error.log
+npm-debug.log
+
+# Metro
+.expo/
+.expo-shared/
+metro-cache/
+react-native-packager-cache-*/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Build outputs
+android/app/build/
+ios/Pods/
+ios/build/
+build/
+
+# IDEs y herramientas
+.vscode/
+.idea/
+
+# Configuración temporal
+.env
+*.keystore
+
+# React Native
+*.gradle
+*.iml
+*.hprof
+
+# Fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots
+
+# macOS
+*.xcworkspace
+*.xcodeproj/project.xcworkspace/xcuserdata
+ios/.bundle
+
+# CocoaPods
+ios/Pods/
+ios/Podfile.lock
+
+# Watchman
+.watchmanconfig
+
+# Testing
+coverage/
+jest-cache/
+jest-test-results.json
+
+# Misc
+*.swp
